@@ -1,7 +1,6 @@
 //本配置可用于TVBox或者影视仓使用，不定期维护里面的资源
 //配置方法：打开软件-设置-配置地址-粘帖此配置地址-返回主页完成
 //本接口免费使用，仅供软件测试使用，请勿商业用途。
-// https://jihulab.com/jinenge/tvbox
 {
   "spider": "./jar/jinenge.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
   "wallpaper": "https://tv.jinenyy.vip",
